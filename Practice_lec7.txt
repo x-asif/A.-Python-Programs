@@ -1,0 +1,4 @@
+Hi everyone
+We are learning file I/O
+using C-language
+I like programming in C-language
