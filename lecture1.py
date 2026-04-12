@@ -37,7 +37,7 @@ print(a)
 # type conversion
 a = 12
 b = 1.2
-print(a + b) # 13.2
+print(a + b) # 13.2 #by default output float 
 
 #ype casting int(value) or float(value)
 a = int("2")

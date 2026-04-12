@@ -85,14 +85,20 @@
 
 
 
-def facto(n):
-    if(n == 0):
-        return
-    facto = facto * facto(n-1)
-    
-    return facto
+def fact(n):
+    a= 12
+    b =12
+    c =12
+    for d in range(n):
+        a = d + fact(n-1)
+        print(a)
 
-print(facto(5))
+    
+    
+        
+    
+l = fact(3)
+print(l)
 
 
 

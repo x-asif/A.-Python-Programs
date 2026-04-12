@@ -68,10 +68,20 @@
 
 # print(count)
         
-with open("split.txt", "r") as f:
-    data = f.read()
-    nums = data.split()
-    print(nums)
+# with open("split.txt", "r") as f:
+#     data = f.read()
+#     nums = data.split()
+#     print(nums)
+
+file = open("lecture7.txt", "r") #file open krne ke liye open("file_name", "mode")
+# save_in1 = file.readline()
+# save_in2 = file.readline()
+
+# print(save_in1,save_in2 , "\n abcdefghijklmnopqrstuvwxyz")
+# file.close()
+
+
+
 
 
 
