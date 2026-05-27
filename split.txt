@@ -1,1 +1,2 @@
-a, s, i, f
+Python is most easy to understand
+Guido van rossum is the developer of the python at CWI(informatica)

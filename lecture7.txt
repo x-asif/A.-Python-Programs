@@ -1,2 +1,9 @@
-Python is most easy to understand
-Guido van rossum is the developer of the python at CWI(informatica)
+a, s, i, f
+my name is asif
+my branch is information technology 
+rollno: 40
+age = 21
+branches available in my college is = C, EE ,IT
+Rec abn 
+Rajkiya Engineering College Ambedkar nagar
+Near tanda and akbarpur
